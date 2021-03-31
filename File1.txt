@@ -1,1 +1,2 @@
 First Entry in Remote
+This is a second line Remote
