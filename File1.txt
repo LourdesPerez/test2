@@ -4,3 +4,7 @@ This is a second line Remote
 third line remote
 4 line remote
 5 line remote
+*************
+New changes 1
+New changes 2
+New changes 3
