@@ -6,3 +6,4 @@ new changes in server
 new changes file 2 client
 **********
 change 1 client
+change 2
