@@ -12,3 +12,6 @@ new change 4
 *************
 Change 1
 Change 2 server
+change squash 1 
+change squash 2
+change squash 3
