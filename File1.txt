@@ -17,3 +17,5 @@ change squash 2
 change squash 3
 *************
 Merge test client
+***********
+change in server accept all
